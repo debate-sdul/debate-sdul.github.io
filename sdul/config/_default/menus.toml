@@ -1,0 +1,101 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+weight = 2
+name = "Quem somos"
+hasChildren = true
+
+  [[main]]
+  parent = "Quem somos"
+  name = "Missão e valores"
+  url = "missao-valores"
+  weight = 1
+
+  [[main]]
+  parent = "Quem somos"
+  name = "FAQs"
+  url = "faqs"
+  weight = 2
+
+
+[[main]]
+weight = 3
+name = "O debate"
+hasChildren = true
+
+  [[main]]
+  parent = "O debate"
+  name = "Como funciona"
+  url = "como-funciona"
+  weight = 1
+
+  [[main]]
+  parent = "O debate"
+  name = "Onde debater"
+  url = "onde-debater"
+  weight = 2
+
+[[main]]
+weight = 4
+name = "Eventos"
+hasChildren = true
+url = "eventos"
+
+  # [[main]]
+  # parent = "Eventos"
+  # name = "Torneio Interno"
+  # url = ""
+  # weight = 1
+
+
+[[main]]
+name = "Parcerias"
+url = "parcerias"
+weight = 5
+
+
+[[main]]
+name = "Contactos"
+url = "contactos"
+weight = 6
+
+# footer menu left
+[[footer_left]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer_left]]
+name = "Missão e valores"
+url = "missao-valores"
+weight = 2
+
+[[footer_left]]
+name = "FAQs"
+url = "faqs"
+weight = 3
+
+# footer menu middle
+[[footer_middle]]
+name = "Como debater"
+url = "como-funciona"
+weight = 1
+
+[[footer_middle]]
+name = "Onde debater"
+url = "onde-debater"
+weight = 2
+
+[[footer_middle]]
+name = "Parcerias"
+url = "parcerias"
+weight = 3
+
+# footer menu right
+[[footer_right]]
+name = "Contactos"
+url = "contactos"
