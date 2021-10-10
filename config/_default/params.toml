@@ -1,5 +1,5 @@
 #################### default parameters ################################
-logo = "/redname.png"
+logo = "/images/redname.png"
 logo_width = "400px"
 # OpenGraph / Twitter Card metadata
 description = "A Sociedade de Debate da Universidade de Lisboa é uma organização de estudantes que se centra na promoção do debate competitivo na Universidade de Lisboa."
