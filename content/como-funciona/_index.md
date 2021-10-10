@@ -18,7 +18,7 @@ Qualquer assunto pode ser debatido desde que ambos os lados sejam defensáveis.
 
 Cada orador tem, no máximo, 7 minutos de discurso (com 15 segundos de tolerância), começando no discurso do Primeiro Ministro e terminando no do “Whip” da Oposição, seguindo a ordem da imagem.
 
-![bp](/static/images/bp.png)
+![bp](/images/bp.png)
 
 * 2 - Whips não dão argumentos novos
 
