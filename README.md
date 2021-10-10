@@ -6,7 +6,7 @@ Website da Sociedade de Debate da Universidade de Lisboa. Criado com [Hugo](http
 ## Instalação
 ```bash
 
-git clone git@gitlab.com:alexaagithub/sitesdul.git
+git clone https://github.com/debate-sdul/site.git
 
 $ cd sdul
 

@@ -1,0 +1,46 @@
+#################### default parameters ################################
+logo = "/redname.png"
+logo_width = "400px"
+# OpenGraph / Twitter Card metadata
+description = "A Sociedade de Debate da Universidade de Lisboa é uma organização de estudantes que se centra na promoção do debate competitivo na Universidade de Lisboa."
+author = "SDUL"
+image = "images/redname.png" # this image will be used as fallback if a page has no image of its own
+# contact form action
+contact_form_action = "https://formspree.io/f/mleavvzw" # contact form works with https://formspree.io
+
+# Type of pages to be rendered with a blog view
+blogCategoryType = "category"
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[navigation_button]
+enable = false
+label = "Junta-te a nós!"
+link = "contactos"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+  
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/debatesdul/"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/debatesdul/?hl=en"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/debatesdul/about/"
