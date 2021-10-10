@@ -1,10 +1,10 @@
 #################### default parameters ################################
-logo = "https://debate-sdul.github.io/images/redname.png"
+logo = "/images/redname.png"
 logo_width = "400px"
 # OpenGraph / Twitter Card metadata
 description = "A Sociedade de Debate da Universidade de Lisboa é uma organização de estudantes que se centra na promoção do debate competitivo na Universidade de Lisboa."
 author = "SDUL"
-image = "https://debate-sdul.github.io/images/redname.png" # this image will be used as fallback if a page has no image of its own
+image = "/images/redname.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "https://formspree.io/f/mleavvzw" # contact form works with https://formspree.io
 
