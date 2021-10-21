@@ -10,4 +10,13 @@ $ git clone https://github.com/debate-sdul/debate-sdul.github.io.git
 
 
 $ hugo server -D
+
+(abrir http://localhost:1313/ no browser)
+
 ```
+
+## Mofificar o conteúdo das páginas
+
+$ cd content/'pagina a modificar'
+
+$ open _index.md
