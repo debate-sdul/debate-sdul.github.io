@@ -20,8 +20,9 @@ Contacto: sdul.geral@gmail.com
 * Ivan Mira
 * Ianira Vieira
 * Alexandre Dias
+* Maria Salgado
 
-Contacto: sdul.dep.gestao@gmail.com
+Contacto: sdul.debatessemanais@gmail.com
 
 #### Eventos 🗓
 **Coordenadora:** Matilde Almeida e Silva
