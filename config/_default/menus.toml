@@ -45,11 +45,11 @@ name = "Eventos"
 hasChildren = true
 url = "eventos"
 
-  # [[main]]
-  # parent = "Eventos"
-  # name = "Torneio Interno"
-  # url = ""
-  # weight = 1
+  [[main]]
+  parent = "Eventos"
+  name = "IV Open do Tejo"
+  url = "iv-open-tejo"
+  weight = 1
 
 
 [[main]]
