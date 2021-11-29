@@ -60,5 +60,5 @@ call_to_action:
   button:
     enable : true
     label : "Calendário SDUL"
-    link : "eventos"
+    link : "calendario"
 ---

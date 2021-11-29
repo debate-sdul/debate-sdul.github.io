@@ -43,13 +43,18 @@ hasChildren = true
 weight = 4
 name = "Eventos"
 hasChildren = true
-url = "eventos"
+
+  [[main]]
+  parent = "Eventos"
+  name = "Calendário"
+  url = "calendario"
+  weight = 1
 
   [[main]]
   parent = "Eventos"
   name = "IV Open do Tejo"
   url = "iv-open-tejo"
-  weight = 1
+  weight = 2
 
 
 [[main]]
