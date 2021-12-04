@@ -9,6 +9,7 @@ banner:
     label : "Vem experimentar!"
     link : "onde-debater"
 
+
 ##################### VANTAGENS DEBATE ##########################
 feature:
   enable : true

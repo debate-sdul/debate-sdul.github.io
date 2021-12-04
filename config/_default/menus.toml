@@ -52,9 +52,15 @@ hasChildren = true
 
   [[main]]
   parent = "Eventos"
+  name = "Debates especiais"
+  url = "debates-especiais"
+  weight = 2
+
+  [[main]]
+  parent = "Eventos"
   name = "IV Open do Tejo"
   url = "iv-open-tejo"
-  weight = 2
+  weight = 3
 
 
 [[main]]
