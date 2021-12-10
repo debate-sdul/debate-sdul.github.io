@@ -17,7 +17,7 @@ Contacto: sdul.geral@gmail.com
 
 #### Organização dos Debates Semanais 📝
 * Salomé Rosa
-* Ivan Mira
+* Ivan Mira (colaborador)
 * Ianira Vieira
 * Alexandre Dias
 * Maria Salgado
@@ -37,7 +37,6 @@ Contacto: sdul.eventos@gmail.com
 * Maria Luiza Azevedo
 * João Azevedo
 
-Contacto: marketingsdul@gmail.com
 
 #### Pedagogia 📚
 **Coordenadora:** Sofia Narciso
