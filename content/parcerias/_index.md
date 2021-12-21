@@ -15,4 +15,4 @@ A SDUL tem o prazer de contar com o apoio de diversas entidades, cujo apoio é a
  [![aeiseg](/images/parceiros/logo_aeiseg.png)](http://www.aeiseg.pt/)
 
 
-
+![aefmv](/images/parceiros/logo_aefmv.png)](https://aefmv.com/)
