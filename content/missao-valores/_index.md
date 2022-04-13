@@ -1,8 +1,8 @@
- ---
+---
 title: "Missão e valores"
 subtitle: ""
 # meta description
-description: "O que é a SDUL?"
+description: "Vantagens do debate competitivo universitário"
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Calendário"
 subtitle: ""
 # meta description
-description: "Eventos da Sociedade de Debates da Universidade de Lisboa"
+description: "Debates na Universidade de Lisboa"
 draft: false
 ---
 

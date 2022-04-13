@@ -2,7 +2,7 @@
 title: "Contactos"
 subtitle: ""
 # meta description
-description: "Contactos da SDUL"
+description: "Contactos da Sociedade de Debate da Universidade de Lisboa"
 draft: false
 ---
 

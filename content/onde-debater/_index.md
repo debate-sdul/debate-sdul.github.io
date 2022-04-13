@@ -2,7 +2,7 @@
 title: "Onde debater"
 subtitle: ""
 # meta description
-description: "Onde debater?"
+description: "Onde debater na Universidade de Lisboa?"
 draft: false
 ---
 

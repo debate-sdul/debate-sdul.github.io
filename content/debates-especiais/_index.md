@@ -2,7 +2,7 @@
 title: "Debates Especiais"
 subtitle: ""
 # meta description
-description: "Debates Semanais Especiais da SDUL"
+description: "Debates Semanais Especiais na Universidade de Lisboa"
 draft: false
 ---
 

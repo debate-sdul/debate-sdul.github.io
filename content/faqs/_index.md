@@ -2,7 +2,7 @@
 title: "FAQs"
 subtitle: ""
 # meta description
-description: "FAQs"
+description: "Como debater na Universidade de Lisboa?"
 draft: false
 ---
 

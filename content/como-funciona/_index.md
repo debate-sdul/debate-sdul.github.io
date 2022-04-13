@@ -2,7 +2,7 @@
 title: "Como funciona"
 subtitle: ""
 # meta description
-description: "Como debater?"
+description: "Modelo BP (British Parliamentary)"
 draft: false
 ---
 

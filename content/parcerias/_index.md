@@ -2,7 +2,7 @@
 title: "Parcerias"
 subtitle: ""
 # meta description
-description: "Parceiros SDUL"
+description: "Parceiros Sociedade de Debate da Universidade de Lisboa"
 draft: false
 ---
 A SDUL tem o prazer de contar com o apoio de diversas entidades, cujo apoio é absolutamente fundamental para as nossas actividades e às quais tentamos prestar todo o apoio que possamos dar numa verdadeira relação de parceria.
