@@ -17,10 +17,9 @@ Contacto: sdul.geral@gmail.com
 
 #### Organização dos Debates Semanais 📝
 * Salomé Rosa
-* Ivan Mira (colaborador)
+* Ivan Mira
 * Ianira Vieira
 * Alexandre Dias
-* Maria Salgado
 
 Contacto: sdul.debatessemanais@gmail.com
 
