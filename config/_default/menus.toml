@@ -56,12 +56,6 @@ hasChildren = true
   url = "debates-especiais"
   weight = 2
 
-  [[main]]
-  parent = "Eventos"
-  name = "IV Open do Tejo"
-  url = "iv-open-tejo"
-  weight = 3
-
 
 [[main]]
 name = "Parcerias"
