@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SDUL</title>
-    <link>https://debate-sdul.github.io/</link>
-    <description>Recent content on SDUL</description>
+    <title>Artigos on SDUL</title>
+    <link>https://debate-sdul.github.io/blog/</link>
+    <description>Recent content in Artigos on SDUL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://debate-sdul.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://debate-sdul.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TINA – There is No Alternative</title>
       <link>https://debate-sdul.github.io/blog/post-1/</link>

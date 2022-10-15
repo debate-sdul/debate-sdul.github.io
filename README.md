@@ -21,7 +21,11 @@ $ open _index.md
 ```bash
 $ hugo -t bigspring-light
 
-$ mv /site/public/* /site/
+$ cd ..
+
+$ mv -f site/public/* site/
+
+$ cd site/
 
 $ rm -r public/
 
