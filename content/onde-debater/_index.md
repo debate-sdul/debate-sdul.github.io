@@ -6,7 +6,7 @@ description: "Onde debater na Universidade de Lisboa?"
 draft: false
 ---
 
-* **Presencialmente:** Todas as terças e quintas-feiras às 18h30 numa das faculdades da Universidade de Lisboa (local divulgado com antecedência). Ver [calendário](/eventos/).
+* **Presencialmente:** Todas as segundas e quintas-feiras às 18h30 numa das faculdades da Universidade de Lisboa (local divulgado com antecedência). Ver [calendário](/eventos/).
 
 
  

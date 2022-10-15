@@ -56,17 +56,21 @@ hasChildren = true
   url = "debates-especiais"
   weight = 2
 
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 5
 
 [[main]]
 name = "Parcerias"
 url = "parcerias"
-weight = 5
+weight = 6
 
 
 [[main]]
 name = "Contactos"
 url = "contactos"
-weight = 6
+weight = 7
 
 # footer menu left
 [[footer_left]]
