@@ -21,7 +21,9 @@ $ open _index.md
 ```bash
 $ hugo -t bigspring-light
 
-$ mv ~/site/public/ ~/site/
+$ mv /site/public/* /site/
+
+$ rm -r public/
 
 $ git add .
 
