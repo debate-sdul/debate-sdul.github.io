@@ -1,0 +1,61 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+
+[[main]]
+name = "BP Debate"
+url = "bp-debate"
+weight = 2
+
+[[main]]
+name = "Calendar"
+url = "calendar"
+weight = 3
+
+
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 4
+
+[[main]]
+name = "Partnerships"
+url = "partnerships"
+weight = 5
+
+[[main]]
+name = "Join Us"
+url = "join-us"
+weight = 6
+
+# footer menu left
+[[footer_left]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer_left]]
+name = "BP Debate"
+url = "bp-debate"
+weight = 2
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Calendar"
+url = "calendar"
+weight = 1
+
+[[footer_middle]]
+name = "Partnerships"
+url = "partnerships"
+weight = 2
+
+
+# footer menu right
+[[footer_right]]
+name = "Join Us"
+url = "join-us"

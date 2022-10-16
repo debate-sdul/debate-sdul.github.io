@@ -1,0 +1,13 @@
+############################# Portuguese ############################
+[pt]
+languageName = "PT"
+title = "SDUL"
+contentDir = "content/portuguese" # content/portuguese
+weight = 1
+
+############################# English ############################
+[en]
+languageName = "EN"
+title = "SDUL"
+contentDir = "content/english" # content/english
+weight = 2

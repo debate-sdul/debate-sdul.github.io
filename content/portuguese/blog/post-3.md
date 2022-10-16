@@ -13,8 +13,6 @@ autor: Fernando José F. Ruivo**
 
 ---
 
-# Federação ou Confederação?
-
 A leitura do artigo anterior suscitou-me a vontade de reflectir sobre uma temática que se mantém crucial para a nossa geração: o **_Projecto Europeu_**, incluindo a natureza de uma União que, tem evoluído ao longo de mais de seis décadas, e as possíveis reformas. Mas, previamente a essa análise, julgo necessário responder a duas questões fundamentais:
 
 1.  Qual a motivação dos países da União Europeia?

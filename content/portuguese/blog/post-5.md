@@ -12,7 +12,6 @@ draft: false
 autor: Tiago Oliveira
 ---
 
-# Idealismo pelas Ideias
 
 No nosso todos-os-dias há um certo desrespeito pela individualidade e singularidade, pelo que é pensado e sentido – pelo que é genuíno. Somos cedo desarmados do que poderia ser a nossa identidade, agrupados e separados por clubes, religiões e partidos que criam os nossos objetivos académicos e profissionais, moldam o que nos é permitido sonhar, e provavelmente gerirão as expetativas que deixamos aos nossos filhos e netos. Fugir dessa marca – não poucas vezes “de nascença” – é para mim um instinto tão natural a todos nós quanto ao gado que coiceia a visão de um ferro em brasas no lombo.
 

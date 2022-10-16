@@ -6,14 +6,11 @@ date: 2017-12-20T10:07:21+06:00
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "This is meta description"
+description: "For a moment, imagine yourself without electricity: you can’t cook, you don’t have Internet, you can’t do the all nighter you need to study for your exams, nor bathe in hot water or wash the clothes in the machine… Our life has changed since mass access to energy (electricity, oil,…) and we are no longer able to deal with its absence."
 # post draft
 draft: false
 autor: Cláudia Silva
 ---
-
-# Energy’s Trilemma – Climate change, energy security and energy poverty
-
 
 For a moment, imagine yourself without electricity: you can’t cook, you don’t have Internet, you can’t do the all nighter you need to study for your exams, nor bathe in hot water or wash the clothes in the machine… Our life has changed since mass access to energy (electricity, oil,…) and we are no longer able to deal with its absence.
 
@@ -29,7 +26,7 @@ Remembering the initial challenge, it is possible to predict the impact of acces
 
 Access to energy has an impact on problems that are more commonly known as the development or gender equality.
 
-## Poverty and productivity
+### Poverty and productivity
 
 What would all the college students in the world do without electricity? I remember perfectly the stories of teachers who did work under candlelight. Today our dependence on ICT does not allow us to adapt to an environment without energy.
 
@@ -37,7 +34,7 @@ Our days have become longer thanks to electricity. We can work during the night 
 
 Nowadays, the development of many nations is limited, for example, by the number of hours of sun they have, which affects not only national wealth, but also every citizen, making social mobility more difficult.
 
-## Gender equality
+### Gender equality
 
 There are several obstacles that prevent the development of millions of girls and women all over the world. One of them is the difficulty in the access of girls to education. It is not only the lack of schools or the patriarchal societies in which they are inserted that prevent them from having an education. If you have to walk miles to get water or wood, you will necessarily have less time to study. We can infer that the lack of energy, allied with many other factors, contributes to the sedimentation of existing structures.
 
@@ -53,13 +50,13 @@ National governments have a great impact on the use of energy by their citizens:
 
 This article does not intend to devalue the importance of measures that are taken at global or national level, but rather to warn about the importance of local governments making an appropriate survey of the needs of the region to have a more active voice in the discussion and approval of measures at national or global level.
 
-## Connection between energy shortages and energy security
+### Connection between energy shortages and energy security
 
 The geopolitics of energy can sometimes lead to political decisions that concern the balance of power of the international system and not, at least not directly, with the welfare of the population. While trying to secure stable energy sources, the US has been very active militarily in the Caspian Sea region. For example, in 1997, troops were deployed to Kazakhstan for some exercises with troops from the region. This operation was not only launched for military reasons: The Caspian has long been identified as an alternative source of energy to the Middle East which makes this region the target of disputes between various actors of the international scene.
 
 Given that there are limited resources, the investment in this type of policy necessarily diverts funds from poverty alleviation and public aid to development.
 
-## Link between energy shortages and climate change
+### Link between energy shortages and climate change
 
 In developed countries, not everyone has environmentally friendly habits because often there is a high cost associated. So, few have solar panels in their homes, for example. The financial situation of the families has an even greater weight in the developing countries where the choice is not about the type of energy that is to be consumed, but rather between consuming energy or food.
 

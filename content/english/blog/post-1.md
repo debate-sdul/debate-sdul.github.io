@@ -6,13 +6,11 @@ date: 2020-04-18T10:07:21+06:00
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "This is meta description"
+description: "There Is No Alternative, Margaret Thatcher uttered this famous mantra as part of a stiff defense of her policies and Neoliberalism. There is something remarkably pervasive about these words, to suggest the status quo is no longer up for questioning or debate."
 # post draft
 draft: false
 autor: Xiang Zhou
 ---
-
-# TINA – There is No Alternative
 
 **There Is No Alternative**, Margaret Thatcher uttered this famous mantra as part of a stiff defense of her policies and Neoliberalism. There is something remarkably pervasive about these words, to suggest the status quo is no longer up for questioning or debate.
 

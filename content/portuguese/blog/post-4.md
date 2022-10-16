@@ -12,7 +12,6 @@ draft: false
 autor: João Catarino Campos
 ---
 
-# O passo em frente para que não se dê dois atrás
 
 Cheguei a Mannheim vindo de Frankfurt, cidade que alberga o centro financeiro da Zona Euro e a sede do Banco Central Europeu. Por volta das 10h da manhã cruzo a, cada vez mais ténue, fronteira franco-alemã para chegar a Estrasburgo. Disfruto desta viagem enquanto estudo em Madrid no âmbito do famoso programa Erasmus, que me proporcionou a oportunidade de aprender Economia numa Instituição diferente.  Sobretudo, que me permitiu poder sair da minha “ilha” intelectual de Lisboa. O objetivo de vislumbrar outra “ilha” é fundamental para que possa sair de mim mesmo e ver um pouco mais “arquipelagamente”, como Saramago metaforizou, e muito bem.
 

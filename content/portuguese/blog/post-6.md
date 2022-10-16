@@ -1,5 +1,5 @@
 ---
-title: "TINA – There is No Alternative"
+title: "Democracia Deliberativa"
 date: 2016-10-10T10:07:21+06:00
 # post image
 image: "images/blog/post-6.jpg"
@@ -13,7 +13,6 @@ autor: Miguel da Silva Ramos
 
 ---
 
-# Democracia Deliberativa
 
 No seguimento de várias iniciativas promovidas pela Fundação Francisco Manuel dos Santos, surgiu a ideia de este ano a SDUL realizar um exercício de Democracia Deliberativa (o primeiro alguma vez realizado em Portugal), no entanto, tendo em conta o grande desconhecimento que as pessoas têm em relação ao tema, achei que seria o tópico ideal para iniciar esta série de artigos que a SDUL regularmente virá a publicar sobre os vários temas que iremos discutir ao longo deste ano letivo.
 
