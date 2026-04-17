@@ -3,7 +3,9 @@ baseURL = "https://debate-sdul.github.io"
 title = "SDUL"
 theme = "bigspring-light"
 # post pagination
-paginate = "3"
+[pagination]
+  pagerSize = 3
+#paginate = "3"
 # post excerpt
 summaryLength = "5"
 # disqus short name

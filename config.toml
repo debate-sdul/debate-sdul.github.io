@@ -29,6 +29,7 @@ primary_font_type = "sans-serif" # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
 
 
+
 ############################# Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]

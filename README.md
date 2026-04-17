@@ -13,7 +13,7 @@ $ hugo server -D
 
 ## Modificar o conteúdo das páginas
 ```bash
-$ cd content/'pagina_a_modificar'
+$ cd content/language/'pagina_a_modificar' -> exemplo: cd content/portuguese/contactos
 
 $ open _index.md
 ```
