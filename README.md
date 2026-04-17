@@ -34,6 +34,7 @@ $ git add .
 $ git commit -am "alteracao"
 
 $ git push
+```
 
 ## Coisas para implementar
 - Versão do site em inglês
